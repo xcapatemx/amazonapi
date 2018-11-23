@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "xcapatemx\\": "src/"
+            "MarcL\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "xcapatemx\\": "src/",
+            "MarcL\\": "src/",
             "tests\\": "tests/"
         }
     }
